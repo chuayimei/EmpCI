@@ -1,2 +1,2 @@
 language: java
-studio: required
+sudo: required
